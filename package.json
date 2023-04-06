@@ -1,0 +1,51 @@
+{
+  "name": "backend_d2",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon -r dotenv/config -e js ./src/server.js",
+    "start": "node ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eleni-Ke/Backend_D2.git"
+  },
+  "keywords": [],
+  "author": "Eleni Kellermann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eleni-Ke/Backend_D2/issues"
+  },
+  "homepage": "https://github.com/Eleni-Ke/Backend_D2#readme",
+  "dependencies": {
+    "@json2csv/node": "^6.1.2",
+    "@sendgrid/mail": "^7.7.0",
+    "cloudinary": "^1.35.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-list-endpoints": "^6.0.0",
+    "express-validator": "^6.15.0",
+    "fs-extra": "^11.1.0",
+    "http-errors": "^2.0.0",
+    "image-to-base64": "^2.2.0",
+    "mongoose": "^7.0.1",
+    "multer": "^1.4.5-lts.1",
+    "multer-storage-cloudinary": "^4.0.0",
+    "pdfmake": "^0.2.7",
+    "query-to-mongo": "^0.10.2",
+    "request": "^2.88.2",
+    "swagger-ui-express": "^4.6.2",
+    "uniqid": "^5.4.0",
+    "atob": "^2.1.2",
+    "axios": "^0.21.1",
+    "bcrypt": "^5.1.0",
+    "yamljs": "^0.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "striptags": "^3.1.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}

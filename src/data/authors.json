@@ -1,0 +1,57 @@
+[
+  {
+    "name": "test7890 ",
+    "surname": "moradiyao",
+    "email": "hardika@example.com",
+    "DOB": "7/10/1996",
+    "avatar": "http://localhost:3001/img/authorssktwi1y93lepyc05y.jpeg",
+    "createdAt": "2023-03-01T17:28:40.149Z",
+    "updatedAt": "2023-03-06T13:36:49.858Z",
+    "id": "sktwi1y93lepyc05y"
+  },
+  {
+    "name": "Eleni",
+    "surname": "Eleni",
+    "email": "eleni.kellermann@hotmail.de",
+    "DOB": "6/12/1992",
+    "avatar": "",
+    "createdAt": "2023-03-01T21:25:07.051Z",
+    "updatedAt": "2023-03-01T21:25:07.051Z",
+    "id": "sktwi21d8leq6s2uk"
+  },
+  {
+    "name": "test78768 ",
+    "surname": "Roberto",
+    "email": "eleni@example.com",
+    "DOB": "6/12/1992",
+    "avatar": "",
+    "createdAt": "2023-03-01T23:15:39.960Z",
+    "updatedAt": "2023-03-01T23:17:33.364Z",
+    "id": "sktwi2351leqaq8u1"
+  },
+  {
+    "name": "New test",
+    "email": "john.doe@example.com",
+    "DOB": "6/12/1992",
+    "createdAt": "2023-03-05T18:06:01.462Z",
+    "updatedAt": "2023-03-05T18:06:01.462Z",
+    "id": "sktwitgclevpfg8n"
+  },
+  {
+    "name": "New test",
+    "surname": "Doe",
+    "DOB": "6/12/1992",
+    "createdAt": "2023-03-05T18:14:22.781Z",
+    "updatedAt": "2023-03-05T18:14:22.781Z",
+    "id": "sktwitmblevpq726"
+  },
+  {
+    "name": "John",
+    "surname": "Doe",
+    "email": "john.doe@example.com",
+    "DOB": "6/12/1992",
+    "createdAt": "2023-03-05T18:31:21.824Z",
+    "updatedAt": "2023-03-05T18:31:21.824Z",
+    "id": "sktwiu79levqc1cx"
+  }
+]
